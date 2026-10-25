@@ -1,0 +1,6 @@
+# never publish private signing keys
+*.biprivatekey
+# editor / OS files
+*.bak
+Thumbs.db
+desktop.ini

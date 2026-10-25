@@ -1,0 +1,11 @@
+name = "Gas Tank and Lighter Refill";
+picture = "GasTankRefillMod/gui/logo/gtr_logo.paa";
+logo = "GasTankRefillMod/gui/logo/gtr_logo.paa";
+logoSmall = "GasTankRefillMod/gui/logo/gtr_logo.paa";
+logoOver = "GasTankRefillMod/gui/logo/gtr_logo_over.paa";
+tooltip = "Gas Tank and Lighter Refill";
+overview = "Refill gas canisters at gas tanks and petrol lighters from gas canisters on every official map. Configurable on the server.";
+action = "https://github.com/TryHackX/dayz-gas-tank-lighter-refill";
+author = "TryHackX";
+authorID = "76561199846115789";
+version = "1.6.0";
